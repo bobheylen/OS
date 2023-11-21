@@ -1,4 +1,4 @@
-# OS
+# OS 3BAC SEM1
 ## clab1gcc
 In this first practical session, you will learn the basics of programming with C.
 You will have to write basic C programs, build them with gcc, run and test the programs.
