@@ -1,0 +1,21 @@
+0 1669026953 Failed to open csv file to append: filename = NULL
+1 1669026953 Failed to insert sensor in csv file: filename = NULL
+2 1669026953 Failed to insert sensor in csv file: filename = NULL
+3 1669026953 Failed to insert sensor in csv file: filename = NULL
+4 1669026953 Failed to insert sensor in csv file: filename = NULL
+5 1669026953 Failed to insert sensor in csv file: filename = NULL
+6 1669026953 Failed to close csv file: file = NULL
+7 1669026953 csv file opened to append: sensor_data.csv
+8 1669026953 Succeeded to insert sensor in csv file - id: 1, value: 1.45, timestamp: 1669026953
+9 1669026953 Succeeded to insert sensor in csv file - id: 2, value: 2.90, timestamp: 1669026953
+10 1669026953 Succeeded to insert sensor in csv file - id: 3, value: 4.35, timestamp: 1669026953
+11 1669026953 Succeeded to insert sensor in csv file - id: 4, value: 5.80, timestamp: 1669026953
+12 1669026953 Succeeded to insert sensor in csv file - id: 5, value: 7.25, timestamp: 1669026953
+13 1669026953 csv file closed succesfully
+14 1669026953 csv file opened to overwrite: sensor_data2.csv
+15 1669026953 Succeeded to insert sensor in csv file - id: 1, value: 2.45, timestamp: 1669026953
+16 1669026953 Succeeded to insert sensor in csv file - id: 2, value: 4.90, timestamp: 1669026953
+17 1669026953 Succeeded to insert sensor in csv file - id: 3, value: 7.35, timestamp: 1669026953
+18 1669026953 Succeeded to insert sensor in csv file - id: 4, value: 9.80, timestamp: 1669026953
+19 1669026953 Succeeded to insert sensor in csv file - id: 5, value: 12.25, timestamp: 1669026953
+20 1669026953 csv file closed succesfully
